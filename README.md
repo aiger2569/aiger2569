@@ -3,6 +3,8 @@
 
 💻 **Aspiring Developer | Full-Stack Enthusiast | Problem Solver**  
 
+![Prahlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiger2569&show_icons=true&theme=radical)
+
 ---
 
 ## 🚀 About Me  
