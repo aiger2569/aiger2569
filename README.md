@@ -4,8 +4,12 @@
 💻 **Aspiring Developer | Full-Stack Enthusiast | Problem Solver**  
 
 ![Prahlad's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aiger2569&show_icons=true&theme=radical)
+
+
 ![Profile Views](https://komarev.com/ghpvc/?username=aiger2569&color=blue)  
+
 ![Followers](https://img.shields.io/github/followers/aiger2569?label=Followers&style=social)  
+
 ![Stars](https://img.shields.io/github/stars/aiger2569?label=Stars&style=social)
 
 ---
