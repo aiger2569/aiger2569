@@ -38,7 +38,15 @@
 
 | ![](https://github-readme-stats.vercel.app/api?username=aiger2569&show_icons=true&theme=radical) | ![](https://github-readme-stats.vercel.app/api/top-langs/?username=aiger2569&layout=compact&theme=radical) |
 |---|---|
-| ![](https://github-readme-streak-stats.herokuapp.com/?user=aiger2569&theme=radical) |
+| ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=aiger2569&theme=radical) | ![](https://github-readme-streak-stats-eight.vercel.app/?user=aiger2569&theme=radical) |
+
+[![](https://github-readme-activity-graph.vercel.app/graph?username=aiger2569&theme=react-dark)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=aiger2569&color=blue"/>  
+  <img src="https://img.shields.io/github/followers/aiger2569?label=Followers&style=social"/>  
+  <img src="https://img.shields.io/github/stars/aiger2569?label=Stars&style=social"/>  
+</p>
 
 ---
 
@@ -46,12 +54,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/prahlad-kumar-jha-b58887285/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
   <a href="https://github.com/aiger2569"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
-</p>
-
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=aiger2569&color=blue"/>  
-  <img src="https://img.shields.io/github/followers/aiger2569?label=Followers&style=social"/>  
-  <img src="https://img.shields.io/github/stars/aiger2569?label=Stars&style=social"/>  
 </p>
 
 ---
