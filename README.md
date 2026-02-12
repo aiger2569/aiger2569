@@ -1,8 +1,4 @@
-Got it 👍
 
-I’ve removed any mention of **“Prahlad Kumar Jha”** and kept everything aligned with your **Broke Pixels Dev** identity.
-
-Here is the cleaned and ready-to-use version:
 
 ---
 
