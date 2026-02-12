@@ -1,4 +1,4 @@
-# 👋 Hi, I'm Prahlad Kumar Jha  
+# 👋 Hi
 
 💻 **Aspiring Developer | Full-Stack Web Dev | UI/UX Designer | Rookie Game Dev**  
 🎮 Gamer | 🎵 Music Lover | ⚔️ Outlast & FNaF Enthusiast  
