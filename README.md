@@ -60,7 +60,7 @@
 
 ## 🌐 Connect With Me  
 <p align="center">
-  <a href="https://www.linkedin.com/in/prahlad-kumar-jha-b58887285/"><img src="https://img.shields.io/badge/LinkedIn-%230A66C2.svg?&style=for-the-badge&logo=linkedin&logoColor=white"/></a>
+  
   <a href="https://github.com/aiger2569"><img src="https://img.shields.io/badge/GitHub-%23181717.svg?&style=for-the-badge&logo=github&logoColor=white"/></a>
   <a href="https://leetcode.com/u/aiger2596/"><img src="https://img.shields.io/badge/LeetCode-%23FFA116.svg?&style=for-the-badge&logo=leetcode&logoColor=white"/></a>
 </p>
