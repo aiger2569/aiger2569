@@ -80,11 +80,4 @@
 
 ---
 
-If you want, I can now:
 
-* 🔥 Make this profile more **cinematic and brand-aligned with “Broke Pixels Dev”**
-* 🎮 Add a **Stranded: A Galaxy Far Away** section to tie it into your game universe
-* 🧠 Make it more recruiter-friendly for placements
-* 🎨 Or give it a darker indie-dev aesthetic theme
-
-Tell me the vibe you want.
